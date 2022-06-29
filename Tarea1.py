@@ -191,7 +191,7 @@ df['cut'].value_counts()
 
 
 #23 crear un histograma de ‘cut’ (.plot(kind=’hist’)).
-
+df['cut'].hist()
 
 # In[47]:
 
